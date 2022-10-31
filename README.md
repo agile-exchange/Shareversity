@@ -136,8 +136,6 @@ We have placed the initial items necessary to access our product at the top of t
 
 We used planning poker to estimate PBIs. While the product owner and scrum master were present to support, only developers participated in estimating the PBIs.
 
-PBI Storage Tool : Jira
+[Agile Poker](https://agile-exchange.atlassian.net/projects/AE?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.spartez.jira.plugins.jiraplanningpoker__poker-project-page#!/board/1/sessions-management)
 
-Total Relative Size Units:
-
-Story Points:
+PBI Storage Tool : [Jira](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1/backlog)
