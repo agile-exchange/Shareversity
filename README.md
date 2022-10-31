@@ -53,7 +53,7 @@ Developers: Juan Matias, Meha Verma & Brian Wagner
 
 **Team Resources:** 
 
-Scrum - Jiro [Homepage](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1)
+Scrum - Jira [Homepage](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1)
  
 Communications - Slack [Invite](https://join.slack.com/t/agile-exchangegroup/shared_invite/zt-1iyw829e9-u_Ty6x7rLva72_0U9ngAbg
 )
