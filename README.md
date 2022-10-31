@@ -112,6 +112,7 @@ John Doe, 20 year old student Harvard
 Jane Smith, 50 year old tenured Harvard professor
 
 **Initial Product Backlog Ordering & Rationale:** 
+https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1/backlog
 
 ## 3 Whole-team relative-size estimating activity
 
