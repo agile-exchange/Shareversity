@@ -128,6 +128,7 @@ Faculty: Jane Smith, 50 year old tenured Harvard professor
 
 [Initial Product Backlog](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1/backlog) (scroll to the bottom)
 
+![backlog](https://github.com/agile-exchange/Shareversity/blob/main/images/backlog.png)
 We have placed the initial items necessary to access our product at the top of the backlog (landing and log in pages), followed by increments that allow users to share their information (profiles) and research opportunities. We then move to features that allow for viewing and sorting opportunities, and adding more sharing capabilities (documents, interests, photos etc.) while also enabling email notifications to our users. Later items in the backlog include advanced privacy management once profiles are created and search capabilities based on the created profiles. Finally, we add the ability to post items other than research opportunities as a different line aimed at drawing in users, include an admin portal to manage the various lines, simplify sign on using SSO, and create the ability for users to communicate directly via direct message, all to enhance the already established user experience. 
 
 ## 3 Whole-team relative-size estimating activity
