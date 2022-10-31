@@ -107,6 +107,9 @@ https://github.com/agile-exchange/tbd/files/9897261/AGILEEXCHA-Real.User.Persona
 
 **Two Additional Stakeholders:** 
 
+John Doe, 20 year old student Harvard
+
+Jane Smith, 50 year old tenured Harvard professor
 
 **Initial Product Backlog Ordering & Rationale:** 
 
