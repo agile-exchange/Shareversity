@@ -116,7 +116,7 @@ https://docs.google.com/document/d/1UilKWKlqFIFUDQ2WxeH3C8XWb3C-TQSSBjK5FeHaZTw/
 
 **Real Stakeholder:**  University Administrator: Elizabeth Jackson [User Persona](https://agile-exchange.atlassian.net/wiki/spaces/AGILEEXCHA/pages/458802?atlOrigin=eyJpIjoiNGYwNmYxMDVkMWIzNGQ0MDgzNmNkMTg5MzA0YmM3ZjAiLCJwIjoiaiJ9)
 
-https://github.com/agile-exchange/tbd/files/9897261/AGILEEXCHA-Real.User.Persona.Administrator.-311022-010529.1.pdf
+![persona1](https://github.com/agile-exchange/Shareversity/blob/main/images/persona1.png)
 
 **Two Additional Stakeholders:** 
 
