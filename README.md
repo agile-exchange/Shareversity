@@ -103,8 +103,16 @@ Admin
 Craigslist meets Facebook Marketplace & for universities
 
 **Definition of Ready:**
+Our definition of ready is inspired from the ideas of Jeff Sutherland’s guidelines:
+https://www.scruminc.com/definition-of-ready/ 
+https://scrumguides.org/ 
+
+Here is our definition of Ready:
+https://docs.google.com/document/d/1LXaiHByOsPmBgDhzMa94bdU5qJQXpYsd3LIJO9vprGA/edit
 
 **Definition of Done:** 
+Here is our definition of Done:
+https://docs.google.com/document/d/1UilKWKlqFIFUDQ2WxeH3C8XWb3C-TQSSBjK5FeHaZTw/edit
 
 **Real Stakeholder:**  Elizabeth Jackson [User Persona](https://agile-exchange.atlassian.net/wiki/spaces/AGILEEXCHA/pages/458802?atlOrigin=eyJpIjoiNGYwNmYxMDVkMWIzNGQ0MDgzNmNkMTg5MzA0YmM3ZjAiLCJwIjoiaiJ9)
 
