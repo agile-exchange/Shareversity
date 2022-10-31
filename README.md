@@ -40,6 +40,9 @@ The Developers are the people in the Scrum Team that are committed to creating a
 * Adapting their plan each day toward the Sprint Goal; and,
 * Holding each other accountable as professionals.
 
+
+  **Source:https://www.coursera.org/articles/scrum-roles-and-responsibilities** 
+
 **Team Roster:** 
  
 Product Owner: Elizabeth Koch 
