@@ -73,7 +73,7 @@ Students
 
 Admin
 
-**Near Vision**: Interface for users (students, faculty, admins) to exchange research opportunities, jobs, and items for other needs.
+**Near Vision**: Interface for users (students, faculty, admins) to exchange research opportunities.
 * Unique Features include:
     * Faculty post research project needs
         * Route to application portals
@@ -112,7 +112,8 @@ John Doe, 20 year old student Harvard
 Jane Smith, 50 year old tenured Harvard professor
 
 **Initial Product Backlog Ordering & Rationale:** 
-https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1/backlog
+
+We have placed the initial items necessary to access our product at the top of the backlog (landing and log in pages), followed by increments that allow users to share their information (profiles) and research opportunities. We then move to features that allow for viewing and sorting opportunities additional sharing capabilities (documents, interests, photos etc.) while also enabling email notifications to our users. Later items in the backlog include advanced privacy management once profiles are created and search capabilities based on the created profiles. Finally, we add the ability to post itesm other than research opportunities as a different line aimed at drawing in users, including an admin portal to manage the various lines, simplifying sign on using SSO, and creating the ability for users to communicate directly via direct message, all to enhance the already established user experience. 
 
 ## 3 Whole-team relative-size estimating activity
 
