@@ -114,23 +114,27 @@ https://docs.google.com/document/d/1LXaiHByOsPmBgDhzMa94bdU5qJQXpYsd3LIJO9vprGA/
 Here is our definition of Done:
 https://docs.google.com/document/d/1UilKWKlqFIFUDQ2WxeH3C8XWb3C-TQSSBjK5FeHaZTw/edit
 
-**Real Stakeholder:**  Elizabeth Jackson [User Persona](https://agile-exchange.atlassian.net/wiki/spaces/AGILEEXCHA/pages/458802?atlOrigin=eyJpIjoiNGYwNmYxMDVkMWIzNGQ0MDgzNmNkMTg5MzA0YmM3ZjAiLCJwIjoiaiJ9)
+**Real Stakeholder:**  University Administrator: Elizabeth Jackson [User Persona](https://agile-exchange.atlassian.net/wiki/spaces/AGILEEXCHA/pages/458802?atlOrigin=eyJpIjoiNGYwNmYxMDVkMWIzNGQ0MDgzNmNkMTg5MzA0YmM3ZjAiLCJwIjoiaiJ9)
 
 https://github.com/agile-exchange/tbd/files/9897261/AGILEEXCHA-Real.User.Persona.Administrator.-311022-010529.1.pdf
 
 **Two Additional Stakeholders:** 
 
-John Doe, 20 year old student Harvard
+Student: John Doe, 20 year old student Harvard
 
-Jane Smith, 50 year old tenured Harvard professor
+Faculty: Jane Smith, 50 year old tenured Harvard professor
 
 **Initial Product Backlog Ordering & Rationale:** 
+
+[Initial Product Backlog](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1/backlog) (scroll to the bottom)
 
 We have placed the initial items necessary to access our product at the top of the backlog (landing and log in pages), followed by increments that allow users to share their information (profiles) and research opportunities. We then move to features that allow for viewing and sorting opportunities, and adding more sharing capabilities (documents, interests, photos etc.) while also enabling email notifications to our users. Later items in the backlog include advanced privacy management once profiles are created and search capabilities based on the created profiles. Finally, we add the ability to post items other than research opportunities as a different line aimed at drawing in users, include an admin portal to manage the various lines, simplify sign on using SSO, and create the ability for users to communicate directly via direct message, all to enhance the already established user experience. 
 
 ## 3 Whole-team relative-size estimating activity
 
-**Estimates for PBIs**: (note: only developers participated)
+**Estimates for PBIs**:
+
+We used planning poker to estimate PBIs. While the product owner and scrum master were present to support, only developers participated in estimating the PBIs.
 
 PBI Storage Tool : Jira
 
