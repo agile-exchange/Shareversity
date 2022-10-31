@@ -47,7 +47,7 @@ Scrum - Jiro [Homepage](https://agile-exchange.atlassian.net/wiki/spaces/AGILEEX
 
 Documentation -  Google Calendar / Docs [Drive](https://drive.google.com/drive/u/0/folders/1jFoImuQzUL1GwPM0XBCl-rEKa0A1INnh?ths=true)
 
-**GitHub Repo URL:** https://github.com/agile-exchange/tbd
+**GitHub Repo URL:** https://github.com/agile-exchange/Shareversity
 
 ## 2 Product
 
