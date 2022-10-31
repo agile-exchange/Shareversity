@@ -45,11 +45,11 @@ The Developers are the people in the Scrum Team that are committed to creating a
 
 **Team Roster:** 
  
-Product Owner: Elizabeth Koch 
+Product Owner: [Elizabeth Koch](https://github.com/bizzyK) 
 
-Scrum Master: Andrew Juraschek 
+Scrum Master: [Andrew Juraschek](https://github.com/ajuraschek) 
 
-Developers: Juan Matias, Meha Verma, & Brian Wagner
+Developers: [Juan Matias](https://github.com/juamatx), [Meha Verma](https://github.com/mehaverma625), & [Brian Wagner](https://github.com/BrianWagner-Github)
 
 **Team Resources:** 
 
