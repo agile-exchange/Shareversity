@@ -41,7 +41,7 @@ The Developers are the people in the Scrum Team that are committed to creating a
 * Holding each other accountable as professionals.
 
 
-  **Source:https://www.coursera.org/articles/scrum-roles-and-responsibilities** 
+**Source:https://www.coursera.org/articles/scrum-roles-and-responsibilities** 
 
 **Team Roster:** 
  
@@ -49,18 +49,21 @@ Product Owner: Elizabeth Koch
 
 Scrum Master: Andrew Juraschek 
 
-Developers: Juan Matias, Meha Verma & Brian Wagner
+Developers: Juan Matias, Meha Verma, & Brian Wagner
 
 **Team Resources:** 
 
 Scrum - Jira [Homepage](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1)
+![roadmap](https://github.com/agile-exchange/Shareversity/blob/main/images/roadmap.png)
  
 Communications - Slack [Invite](https://join.slack.com/t/agile-exchangegroup/shared_invite/zt-1iyw829e9-u_Ty6x7rLva72_0U9ngAbg
 )
+![slack](https://github.com/agile-exchange/Shareversity/blob/main/images/slack.png)
 
 Documentation -  [Confluence](https://agile-exchange.atlassian.net/wiki/spaces/AGILEEXCHA/overview?homepageId=164048)
+![confluence](https://github.com/agile-exchange/Shareversity/blob/main/images/confluence.png)
 
-Google Calendar / Docs [Drive](https://drive.google.com/drive/u/0/folders/1jFoImuQzUL1GwPM0XBCl-rEKa0A1INnh?ths=true)
+Google [Calendar](https://calendar.google.com/calendar/embed?src=c_d86a9c46d1636e0a7488599883f92c31dba42415c82bf883ddbd749ae139a124%40group.calendar.google.com&ctz=America%2FNew_York) / Docs [Drive](https://drive.google.com/drive/u/0/folders/1jFoImuQzUL1GwPM0XBCl-rEKa0A1INnh?ths=true)
 
 **GitHub Repo URL:** https://github.com/agile-exchange/Shareversity
 
