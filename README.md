@@ -53,12 +53,14 @@ Developers: Juan Matias, Meha Verma & Brian Wagner
 
 **Team Resources:** 
 
-Scrum - Jiro [Homepage](https://agile-exchange.atlassian.net/wiki/spaces/AGILEEXCHA/overview?homepageId=164048)
+Scrum - Jiro [Homepage](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1)
  
- Communications - Slack [Invite](https://join.slack.com/t/agile-exchangegroup/shared_invite/zt-1iyw829e9-u_Ty6x7rLva72_0U9ngAbg
+Communications - Slack [Invite](https://join.slack.com/t/agile-exchangegroup/shared_invite/zt-1iyw829e9-u_Ty6x7rLva72_0U9ngAbg
 )
 
-Documentation -  Google Calendar / Docs [Drive](https://drive.google.com/drive/u/0/folders/1jFoImuQzUL1GwPM0XBCl-rEKa0A1INnh?ths=true)
+Documentation -  [Confluence] (https://agile-exchange.atlassian.net/wiki/spaces/AGILEEXCHA/overview?homepageId=164048)
+
+Google Calendar / Docs [Drive](https://drive.google.com/drive/u/0/folders/1jFoImuQzUL1GwPM0XBCl-rEKa0A1INnh?ths=true)
 
 **GitHub Repo URL:** https://github.com/agile-exchange/Shareversity
 
