@@ -150,7 +150,7 @@ https://docs.google.com/document/d/1UilKWKlqFIFUDQ2WxeH3C8XWb3C-TQSSBjK5FeHaZTw/
 
 **Two Additional Stakeholders:** 
 
-Student: John Doe, 20 year old student Harvard
+Student: John Doe, 20 year old Harvard student 
 
 Faculty: Jane Smith, 50 year old tenured Harvard professor
 
