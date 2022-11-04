@@ -176,3 +176,12 @@ We used planning poker to estimate PBIs. While the product owner and scrum maste
 ![poker](https://github.com/agile-exchange/Shareversity/blob/main/images/poker.png)
 
 PBI Storage Tool : [Jira](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1/backlog)
+
+### Product Increment Logs (Project Part 2: First Sprint):
+
+**Nov 3 2022:** Today we deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software.
+URL: https://shareversity.us/
+<img width="684" alt="image" src="https://user-images.githubusercontent.com/60664640/199878812-489b0588-ef9d-4256-bb3c-47141edd04d1.png">
+<img width="1577" alt="image" src="https://user-images.githubusercontent.com/60664640/199878880-fcac80c6-5f75-4ddd-ba08-e426884e4ec2.png">
+
+
