@@ -11,7 +11,15 @@ function isEmail(string) {
 }
 
 export function email(value) {
-  return value && !isEmail(value.trim()) ? 'Invalid email' : null;
+  let message = "";
+  // return value && !isEmail(value.trim()) ? 'Invalid email' : null;
+  if (value && !isEmail(value.trim())) {
+    message = "Invalid email";
+  } else if (!value.trim().includes(".edu")) {
+    message = ".edu email required";
+  } else message = null;
+
+  return message;
 }
 
 function isDirty(value) {
@@ -22,8 +30,8 @@ export function required(requiredFields, values) {
   return requiredFields.reduce(
     (fields, field) => ({
       ...fields,
-      ...(isDirty(values[field]) ? undefined : { [field]: 'Required' }),
+      ...(isDirty(values[field]) ? undefined : { [field]: "Required" }),
     }),
-    {},
+    {}
   );
 }
