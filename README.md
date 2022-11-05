@@ -179,12 +179,12 @@ PBI Storage Tool : [Jira](https://agile-exchange.atlassian.net/jira/software/pro
 
 ### Product Increment Logs (Project Part 2: First Sprint):
 
-**Nov 3 2022:** Today we deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software.
+**Nov 3, 2022:** Today we deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software.
 URL: https://shareversity.us/
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/60664640/199878812-489b0588-ef9d-4256-bb3c-47141edd04d1.png">
 <img width="1577" alt="image" src="https://user-images.githubusercontent.com/60664640/199878880-fcac80c6-5f75-4ddd-ba08-e426884e4ec2.png">
 
-**Nov 5 2022:** Today we deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software. Added feature to validate for .edu emails.
+**Nov 5, 2022:** Today we deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software. Added feature to validate for .edu emails.
 URL: https://shareversity.us/
 ![2022-11-05_19-33-09 (1)](https://user-images.githubusercontent.com/60664640/200147307-4a9aa479-d0f5-410c-9457-58b846ee648d.gif)
 
