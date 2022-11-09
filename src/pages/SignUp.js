@@ -12,6 +12,7 @@ import RFTextField from "../modules/form/RFTextField";
 import FormButton from "../modules/form/FormButton";
 import FormFeedback from "../modules/form/FormFeedback";
 import withRoot from "../modules/withRoot";
+import axios from "axios";
 
 function SignUp() {
   const [sent, setSent] = React.useState(false);
@@ -34,6 +35,23 @@ function SignUp() {
 
   const handleSubmit = () => {
     setSent(true);
+    const data = {
+        firstName:"Juan",
+        lastName:"lastname",
+        email:"brianwagner@g.harvard.edu",
+        password:"dhwvdhjvwhdv"
+    }
+    console.log(data);
+    axios.post('http://localhost:8080/shareversity/registration', data
+    )
+    .then((response) => {
+      console.log(response);
+      console.log("respons yo hoo e123");
+      // return <Redirect to='/profile' />
+    }, (error) => {
+      console.log(error);
+      console.log(error);
+    });
   };
 
   return (
