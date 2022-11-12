@@ -178,6 +178,8 @@ We used planning poker to estimate PBIs. While the product owner and scrum maste
 PBI Storage Tool : [Jira](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1/backlog)
 
 ### Project Part 2: First Sprint
+  
+Recordings / Screenshots of Scrum Activities can be found [here](https://drive.google.com/drive/folders/1jFoImuQzUL1GwPM0XBCl-rEKa0A1INnh)
 
 **Sprint Planning**
   
@@ -189,9 +191,24 @@ User stories were all sized correctly (less than half of total), were broken up 
   
 ![Screen Shot 2022-11-12 at 11 12 22 AM](https://user-images.githubusercontent.com/104920023/201483472-5b6466ec-d718-4781-83fb-cc7f2044eb1e.png)
   ![Screen Shot 2022-11-12 at 11 12 06 AM](https://user-images.githubusercontent.com/104920023/201483471-f64b3332-a42c-4c02-ac1f-2dda7bbb4a72.png)
+  
+Sprint Burndown Chart can be seen [here](https://agile-exchange.atlassian.net/jira/dashboards/10000) and was updated automatically as tasks were completed throughout the Sprint.
 
+![Screen Shot 2022-11-12 at 11 18 55 AM](https://user-images.githubusercontent.com/104920023/201483848-53a5dda0-e291-4618-bc88-892006ed77fc.png)
 
 **Daily Scrums**
+  
+We conducted multiple daily scrums both in-person via Zoom and using the Sup app on Slack. Team calendar can be viewed [here](https://calendar.google.com/calendar/u/0?cid=Y19kODZhOWM0NmQxNjM2ZTBhNzQ4ODU5OTg4M2Y5MmMzMWRiYTQyNDE1YzgyYmY4ODNkZGJkNzQ5YWUxMzlhMTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+  
+Example of a Sup stand up, which documents answers to daily scrum questions: https://agile-exchangegroup.slack.com/archives/C048S11GPLL/p1667567131095949
+  
+Recording of Zoom stand up: https://drive.google.com/file/d/14-OYV4qkNTW5DeFqK7RFh9EaxINOE5Zn/view?usp=share_link
+
+Screenshots of other standups:
+<img width="1512" alt="Screen Shot 2022-11-10 at 9 09 56 AM (2)" src="https://user-images.githubusercontent.com/104920023/201484159-fd4434c6-20e4-4349-af79-32f4a55e9327.png">
+<img width="1496" alt="Screen Shot 2022-11-07 at 9 09 25 AM" src="https://user-images.githubusercontent.com/104920023/201484171-56cef07d-e327-4b51-8a03-2589050f1bf2.png">
+  
+Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1).
 
 **Test-Drive Development**
 
