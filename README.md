@@ -221,6 +221,7 @@ Changes to the board throughout the sprint, which updated the burndown chart aut
   Screenshots of pair/mob programming sessions below, which included at least 5 participants over multiple sessions.
   
   <img width="1636" alt="2022-11-08_17-14-07" src="https://user-images.githubusercontent.com/104920023/201484995-a7453396-29e8-452f-80d7-71607ddcbc1a.png">
+  
 ![2022-11-09_19-27-11](https://user-images.githubusercontent.com/104920023/201484996-f4a31c56-3b82-4e2e-a2e3-298dd1c5b6e0.png)
 
 **Sprint Review**
@@ -231,6 +232,7 @@ URL: https://shareversity.us/
   
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/60664640/199878812-489b0588-ef9d-4256-bb3c-47141edd04d1.png">
 <img width="1577" alt="image" src="https://user-images.githubusercontent.com/60664640/199878880-fcac80c6-5f75-4ddd-ba08-e426884e4ec2.png">
+  
 ![2022-11-05_19-33-09 (1)](https://user-images.githubusercontent.com/60664640/200147307-4a9aa479-d0f5-410c-9457-58b846ee648d.gif)
   
  On 11/10, we conducted a Sprint Review with our real stakeholder. Recording [here](https://drive.google.com/file/d/14iYvHuN5wtdEC2_IHmLWeV2181T_FRoV/view?usp=share_link) and screenshots below.
