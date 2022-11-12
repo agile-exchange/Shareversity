@@ -182,8 +182,10 @@ PBI Storage Tool : [Jira](https://agile-exchange.atlassian.net/jira/software/pro
 Recordings / Screenshots of Scrum Activities can be found [here](https://drive.google.com/drive/folders/1jFoImuQzUL1GwPM0XBCl-rEKa0A1INnh)
 
 **Sprint Planning**
-  
-Rationale for Sprint forecast: We forecast that can complete 61 story points for our first sprint. This number seemed like a reasonable estimate since the stories we chose are related to one another and because it represents roughly 1/3 of the total story points estimated for all the features to accomplish our near vision for our product in the three sprints available.
+ 
+  On 11/2, we conducted two Sprint planning sessions. Recording [here](https://drive.google.com/file/d/13kw4y9fAhlVQsMOTDn156jIUig8FHvQy/view?usp=share_link) for part 1 and [here](https://drive.google.com/file/d/13eYqNkZNe72fZYouQyn-UL98IFpg7nPa/view?usp=share_link) for part 2.
+
+ Rationale for Sprint forecast: We forecast that could complete 61 story points for our first sprint. This number seemed like a reasonable estimate since the stories we chose are related to one another and because it represents roughly 1/3 of the total story points estimated for all the features to accomplish our near vision for our product in the three sprints available.
   
 Only Developers participated in moving stories from the product backlog into the sprint backlog.
   
@@ -200,11 +202,11 @@ Sprint Burndown Chart can be seen [here](https://agile-exchange.atlassian.net/ji
   
 We conducted multiple daily scrums both in-person via Zoom and using the Sup app on Slack. Team calendar can be viewed [here](https://calendar.google.com/calendar/u/0?cid=Y19kODZhOWM0NmQxNjM2ZTBhNzQ4ODU5OTg4M2Y5MmMzMWRiYTQyNDE1YzgyYmY4ODNkZGJkNzQ5YWUxMzlhMTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
   
-Example of a Sup stand up, which documents answers to daily scrum questions: https://agile-exchangegroup.slack.com/archives/C048S11GPLL/p1667567131095949
+Example of a Sup stand up, which documents answers to daily scrum questions [here](https://agile-exchangegroup.slack.com/archives/C048S11GPLL/p1667567131095949)
   
-Recording of Zoom stand up: https://drive.google.com/file/d/14-OYV4qkNTW5DeFqK7RFh9EaxINOE5Zn/view?usp=share_link
+Recording of Zoom stand up [here](https://drive.google.com/file/d/14-OYV4qkNTW5DeFqK7RFh9EaxINOE5Zn/view?usp=share_link)
 
-Screenshots of other standups:
+Screenshots of other standups (Andrew's self view hidden):
 <img width="1512" alt="Screen Shot 2022-11-10 at 9 09 56 AM (2)" src="https://user-images.githubusercontent.com/104920023/201484159-fd4434c6-20e4-4349-af79-32f4a55e9327.png">
 <img width="1496" alt="Screen Shot 2022-11-07 at 9 09 25 AM" src="https://user-images.githubusercontent.com/104920023/201484171-56cef07d-e327-4b51-8a03-2589050f1bf2.png">
   
@@ -215,21 +217,35 @@ Changes to the board throughout the sprint, which updated the burndown chart aut
 **Pair/Mob Programming**
 
 **Sprint Review**
-
-**Refined Product Backlog**
-
-**Sprint Retrospective**
-
-**Product Increment Logs:**
-
-**Nov 3, 2022:** Today we deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software.
+  
+ We deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software including a feature to validate for .edu emails.
+  
 URL: https://shareversity.us/
+  
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/60664640/199878812-489b0588-ef9d-4256-bb3c-47141edd04d1.png">
 <img width="1577" alt="image" src="https://user-images.githubusercontent.com/60664640/199878880-fcac80c6-5f75-4ddd-ba08-e426884e4ec2.png">
-
-**Nov 5, 2022:** Today we deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software. Added feature to validate for .edu emails.
-URL: https://shareversity.us/
 ![2022-11-05_19-33-09 (1)](https://user-images.githubusercontent.com/60664640/200147307-4a9aa479-d0f5-410c-9457-58b846ee648d.gif)
+  
+ On 11/10, we conducted a Sprint Review with our real stakeholder. Recording [here](https://drive.google.com/file/d/14iYvHuN5wtdEC2_IHmLWeV2181T_FRoV/view?usp=share_link) and screenshots below.
+  
+ ![SprintReview1](https://user-images.githubusercontent.com/104920023/201484608-d8020fa1-61c2-4f95-8232-355e975b279f.png)
+
+**Refined Product Backlog**
+  
+  Following the Sprint Review with the Stakeholder, we met to refine our product backlog. Recording [here](https://drive.google.com/file/d/15ElmkApys0eQ_ryKVeXYtvt4-W85Qlg_/view?usp=share_link) and screenshots below.
+  
+ <img width="1512" alt="Screen Shot 2022-11-10 at 9 24 47 PM (2)" src="https://user-images.githubusercontent.com/104920023/201484659-29b1d269-7b71-412f-b159-cf2dfb368ddb.png">
+  
+ Evidence of a refined backlog can be seen in changes to user stories on our Jira backlog [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1/backlog).
+
+**Sprint Retrospective**
+  
+  On 11/12, we conducted a Sprint Retrospective, recording available [here](https://drive.google.com/file/d/15oLWi_xAk44pJmb36GvxIpyZ72X8Rx-f/view?usp=share_link) and screenshots below.
+  
+  ![Screen Shot 2022-11-12 at 9 16 01 AM](https://user-images.githubusercontent.com/104920023/201484763-c12375bb-1753-47cd-810b-70eec8abd828.png)
+<img width="1512" alt="Screen Shot 2022-11-12 at 9 16 01 AM (2)" src="https://user-images.githubusercontent.com/104920023/201484764-ceb31800-d95a-4d0f-82e3-45f58afa02ef.png">
+
+
 
 
 
