@@ -213,8 +213,15 @@ Screenshots of other standups (Andrew's self view hidden):
 Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1).
 
 **Test-Drive Development**
+  
+  Screenshots providing evidence of Test-Driven Development can be found in [this folder](https://drive.google.com/open?id=106N-o1xmiDtoXp1b0M407pygcSSL8a51&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs).
 
 **Pair/Mob Programming**
+  
+  Screenshots of pair/mob programming sessions below, which included at least 5 participants over multiple sessions.
+  
+  <img width="1636" alt="2022-11-08_17-14-07" src="https://user-images.githubusercontent.com/104920023/201484995-a7453396-29e8-452f-80d7-71607ddcbc1a.png">
+![2022-11-09_19-27-11](https://user-images.githubusercontent.com/104920023/201484996-f4a31c56-3b82-4e2e-a2e3-298dd1c5b6e0.png)
 
 **Sprint Review**
   
@@ -232,6 +239,10 @@ URL: https://shareversity.us/
 
 **Refined Product Backlog**
   
+ On 11/6, we met to refine our backlog mid-Sprint. Screenshot below:
+  
+  <img width="1920" alt="Backlog refinement" src="https://user-images.githubusercontent.com/104920023/201485119-2239e079-7e43-4780-a9ac-7911dc9d519a.png">
+  
   Following the Sprint Review with the Stakeholder, we met to refine our product backlog. Recording [here](https://drive.google.com/file/d/15ElmkApys0eQ_ryKVeXYtvt4-W85Qlg_/view?usp=share_link) and screenshots below.
   
  <img width="1512" alt="Screen Shot 2022-11-10 at 9 24 47 PM (2)" src="https://user-images.githubusercontent.com/104920023/201484659-29b1d269-7b71-412f-b159-cf2dfb368ddb.png">
@@ -242,8 +253,14 @@ URL: https://shareversity.us/
   
   On 11/12, we conducted a Sprint Retrospective, recording available [here](https://drive.google.com/file/d/15oLWi_xAk44pJmb36GvxIpyZ72X8Rx-f/view?usp=share_link) and screenshots below.
   
+  ![2022-11-12_09-16-20](https://user-images.githubusercontent.com/104920023/201485142-0e4a2a32-52b5-4034-8002-270035772d72.png)
+
+  ![retro](https://user-images.githubusercontent.com/104920023/201485011-82b7a23b-2450-4a4d-890e-566cd4ce6bf4.png)
+
   ![Screen Shot 2022-11-12 at 9 16 01 AM](https://user-images.githubusercontent.com/104920023/201484763-c12375bb-1753-47cd-810b-70eec8abd828.png)
 <img width="1512" alt="Screen Shot 2022-11-12 at 9 16 01 AM (2)" src="https://user-images.githubusercontent.com/104920023/201484764-ceb31800-d95a-4d0f-82e3-45f58afa02ef.png">
+  
+  
 
 
 
