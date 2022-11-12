@@ -185,10 +185,11 @@ Rationale for Sprint forecast: We forecast that can complete 61 story points for
   
 Only Developers participated in moving stories from the product backlog into the sprint backlog.
   
-User stories were broken up into developer tasks and added to Kanban Board
+User stories were all sized correctly (less than half of total), were broken up into developer tasks, and tracked on [Kanban Board] (https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1). URL: https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1
   
-![Screen Shot 2022-11-12 at 11 12 06 AM](https://user-images.githubusercontent.com/104920023/201483471-f64b3332-a42c-4c02-ac1f-2dda7bbb4a72.png)
 ![Screen Shot 2022-11-12 at 11 12 22 AM](https://user-images.githubusercontent.com/104920023/201483472-5b6466ec-d718-4781-83fb-cc7f2044eb1e.png)
+  ![Screen Shot 2022-11-12 at 11 12 06 AM](https://user-images.githubusercontent.com/104920023/201483471-f64b3332-a42c-4c02-ac1f-2dda7bbb4a72.png)
+
 
 **Daily Scrums**
 
