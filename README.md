@@ -45,9 +45,9 @@ The Developers are the people in the Scrum Team that are committed to creating a
 
 **Team Roster:** 
  
-Product Owner: [Elizabeth Koch](https://github.com/bizzyK) 
+Product Owner / Backup Dev: [Elizabeth Koch](https://github.com/bizzyK) 
 
-Scrum Master: [Andrew Juraschek](https://github.com/ajuraschek) 
+Scrum Master / Backup Dev: [Andrew Juraschek](https://github.com/ajuraschek) 
 
 Developers: [Juan Matias](https://github.com/juamatx), [Meha Verma](https://github.com/mehaverma625), & [Brian Wagner](https://github.com/BrianWagner-Github)
 
@@ -180,6 +180,15 @@ PBI Storage Tool : [Jira](https://agile-exchange.atlassian.net/jira/software/pro
 ### Project Part 2: First Sprint
 
 **Sprint Planning**
+  
+Rationale for Sprint forecast: We forecast that can complete 61 story points for our first sprint. This number seemed like a reasonable estimate since the stories we chose are related to one another and because it represents roughly 1/3 of the total story points estimated for all the features to accomplish our near vision for our product in the three sprints available.
+  
+Only Developers participated in moving stories from the product backlog into the sprint backlog.
+  
+User stories were broken up into developer tasks and added to Kanban Board
+  
+![Screen Shot 2022-11-12 at 11 12 06 AM](https://user-images.githubusercontent.com/104920023/201483471-f64b3332-a42c-4c02-ac1f-2dda7bbb4a72.png)
+![Screen Shot 2022-11-12 at 11 12 22 AM](https://user-images.githubusercontent.com/104920023/201483472-5b6466ec-d718-4781-83fb-cc7f2044eb1e.png)
 
 **Daily Scrums**
 
