@@ -92,7 +92,7 @@ Admin
     * Include short/long term options; different sizes of projects
     * Broad exchange of items/opportunities among real users
 
-**Far Vision**: Facilitate a cross-university hub where both faculty and students can exchange opportunities and goods. Some extra features that can be added are:
+**Far Vision**: Facilitate a cross-university hub where both faculty and students exchange opportunities and goods to create community, share resources, develop professional, and engage in impactful work. Some extra features that can be added are:
  * University pages
   * Housing
    * Items Exchange (Books)
@@ -177,7 +177,23 @@ We used planning poker to estimate PBIs. While the product owner and scrum maste
 
 PBI Storage Tool : [Jira](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1/backlog)
 
-### Product Increment Logs (Project Part 2: First Sprint):
+### Project Part 2: First Sprint
+
+**Sprint Planning**
+
+**Daily Scrums**
+
+**Test-Drive Development**
+
+**Pair/Mob Programming**
+
+**Sprint Review**
+
+**Refined Product Backlog**
+
+**Sprint Retrospective**
+
+**Product Increment Logs:**
 
 **Nov 3, 2022:** Today we deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software.
 URL: https://shareversity.us/
@@ -187,4 +203,6 @@ URL: https://shareversity.us/
 **Nov 5, 2022:** Today we deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software. Added feature to validate for .edu emails.
 URL: https://shareversity.us/
 ![2022-11-05_19-33-09 (1)](https://user-images.githubusercontent.com/60664640/200147307-4a9aa479-d0f5-410c-9457-58b846ee648d.gif)
+
+
 
