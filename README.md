@@ -235,9 +235,7 @@ URL: https://shareversity.us/
   
 ![2022-11-05_19-33-09 (1)](https://user-images.githubusercontent.com/60664640/200147307-4a9aa479-d0f5-410c-9457-58b846ee648d.gif)
   
- On 11/10, we conducted a Sprint Review with our real stakeholder. Recording [here](https://drive.google.com/file/d/14iYvHuN5wtdEC2_IHmLWeV2181T_FRoV/view?usp=share_link) and screenshots below.
-  
- ![SprintReview1](https://user-images.githubusercontent.com/104920023/201484608-d8020fa1-61c2-4f95-8232-355e975b279f.png)
+ On 11/10, we conducted a Sprint Review with our real stakeholder. Recording [here](https://drive.google.com/file/d/14iYvHuN5wtdEC2_IHmLWeV2181T_FRoV/view?usp=share_link) and screenshot [here](https://drive.google.com/file/d/1bJfCOpYbDhcw-7CIPeVqQnCRxLQwnVXk/view?usp=share_link)
 
 **Refined Product Backlog**
   
