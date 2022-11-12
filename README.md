@@ -260,7 +260,7 @@ URL: https://shareversity.us/
   ![Screen Shot 2022-11-12 at 9 16 01 AM](https://user-images.githubusercontent.com/104920023/201484763-c12375bb-1753-47cd-810b-70eec8abd828.png)
 <img width="1512" alt="Screen Shot 2022-11-12 at 9 16 01 AM (2)" src="https://user-images.githubusercontent.com/104920023/201484764-ceb31800-d95a-4d0f-82e3-45f58afa02ef.png">
   
-  Our identified action to improve our effectiveness is at the top of our product backlog and can be seen [here](https://agile-exchange.atlassian.net/browse/AE-109) and in the backlog in the below screenshot.
+  Our identified action to improve our effectiveness is at the top of our product backlog and can be seen [here](https://agile-exchange.atlassian.net/browse/AE-109) and in the below screenshot.
   
   ![Screen Shot 2022-11-12 at 4 23 54 PM](https://user-images.githubusercontent.com/104920023/201495152-50a9c616-f28d-453c-8188-65295d8ac914.png)
 
