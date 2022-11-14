@@ -267,11 +267,11 @@ Backend URL: http://146.190.74.111/shareversity
   ![Screen Shot 2022-11-12 at 9 16 01 AM](https://user-images.githubusercontent.com/104920023/201484763-c12375bb-1753-47cd-810b-70eec8abd828.png)
 <img width="1512" alt="Screen Shot 2022-11-12 at 9 16 01 AM (2)" src="https://user-images.githubusercontent.com/104920023/201484764-ceb31800-d95a-4d0f-82e3-45f58afa02ef.png">
   
-  Our identified action to improve our effectiveness was put at the top of our product backlog and can be seen [here](https://agile-exchange.atlassian.net/browse/AE-109) and in the below screenshot. It has since been moved to the Sprint Backlog for our next sprint.
+  Our identified action to improve our effectiveness was created as a user story and put at the top of our product backlog and can be seen [here](https://agile-exchange.atlassian.net/browse/AE-109) and in the below screenshot. It has since been moved to the Sprint Backlog for our next sprint. 
   
   ![Screen Shot 2022-11-12 at 4 23 54 PM](https://user-images.githubusercontent.com/104920023/201495152-50a9c616-f28d-453c-8188-65295d8ac914.png)
 
-
+Our concrete plan to achieve this is to reorder our backlog, write narrower user stories focused on maximal value, deprioritize building technical functionality that doesn't directly map to the most valuable features for the stakeholder, and identify the simplest technical solution to create allow us to deliver the requested value to the stakeholder.
 
 
 
