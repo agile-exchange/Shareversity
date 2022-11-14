@@ -185,7 +185,9 @@ Recordings / Screenshots of Scrum Activities can be found [here](https://drive.g
  
   On 11/2, we conducted two Sprint planning sessions. Recording [here](https://drive.google.com/file/d/13kw4y9fAhlVQsMOTDn156jIUig8FHvQy/view?usp=share_link) for part 1 and [here](https://drive.google.com/file/d/13eYqNkZNe72fZYouQyn-UL98IFpg7nPa/view?usp=share_link) for part 2.
 
- Rationale for Sprint forecast: We forecast that could complete 61 story points for our first sprint. This number seemed like a reasonable estimate since the stories we chose are related to one another and because it represents roughly 1/3 of the total story points estimated for all the features to accomplish our near vision for our product in the three sprints available.
+ Sprint forecast: 61 User Story Points
+  
+  Rationale for Sprint forecast: We forecast that could complete 61 story points for our first sprint based on the team's capacity (3 developers, a product owner and scrum master). This number seemed like a reasonable estimate since the stories we chose are related to one another and because it represents roughly 1/3 of the total story points estimated for all the features to accomplish our near vision for our product in the three sprints available. 
   
 Only Developers participated in moving stories from the product backlog into the sprint backlog.
   
@@ -210,7 +212,9 @@ Screenshots of other standups (Andrew's self view hidden):
 <img width="1512" alt="Screen Shot 2022-11-10 at 9 09 56 AM (2)" src="https://user-images.githubusercontent.com/104920023/201484159-fd4434c6-20e4-4349-af79-32f4a55e9327.png">
 <img width="1496" alt="Screen Shot 2022-11-07 at 9 09 25 AM" src="https://user-images.githubusercontent.com/104920023/201484171-56cef07d-e327-4b51-8a03-2589050f1bf2.png">
   
-Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1).
+Regular changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1).
+  
+During our sprint, we reassessed our user stories to reflect feedback from the instructor and a reconsideration about the best approach at delivering value to our stakeholder. As a result, we didn't complete the user stories in their entirety, though we completed 90% of the developer subtasks in user stories 1 and 2. We paused on the third user story planned for the sprint as part of our mid-sprint backlog refinement. Following our sprint review and retrospective, we have further refined our backlog and approach to ensure we are able to deliver value in subsequent sprints.
 
 **Test-Drive Development**
 
@@ -226,11 +230,13 @@ Code [link]: (https://github.com/agile-exchange/Shareversity-Backend/blob/main/s
 
 **Pair/Mob Programming**
   
-  Screenshots of various pair/mob programming sessions conducted during Sprints 1 and 2 below, which included at least 5 participants over multiple sessions.
+  Screenshots of various pair/mob programming sessions conducted during Sprints 1 and 2 below, which included at least 4 participants over multiple sessions.
   
   <img width="1636" alt="2022-11-08_17-14-07" src="https://user-images.githubusercontent.com/104920023/201484995-a7453396-29e8-452f-80d7-71607ddcbc1a.png">
   
 ![2022-11-09_19-27-11](https://user-images.githubusercontent.com/104920023/201484996-f4a31c56-3b82-4e2e-a2e3-298dd1c5b6e0.png)
+  
+  <img width="1512" alt="Screen Shot 2022-11-14 at 9 28 06 AM (2)" src="https://user-images.githubusercontent.com/104920023/201742785-6b66a6b0-3885-4fec-b3bf-1b92f7c909f3.png">
 
 **Sprint Review**
   
