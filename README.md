@@ -236,7 +236,8 @@ Code [link]: (https://github.com/agile-exchange/Shareversity-Backend/blob/main/s
   
  We deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software including a feature to validate for .edu emails.
   
-URL: https://shareversity-test1-xsknh.ondigitalocean.app/
+FrontEnd URL: https://shareversity-test1-xsknh.ondigitalocean.app/
+Backend URL: http://146.190.74.111/shareversity
   
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/60664640/199878812-489b0588-ef9d-4256-bb3c-47141edd04d1.png">
 <img width="1577" alt="image" src="https://user-images.githubusercontent.com/60664640/199878880-fcac80c6-5f75-4ddd-ba08-e426884e4ec2.png">
