@@ -236,7 +236,8 @@ Code [link]: (https://github.com/agile-exchange/Shareversity-Backend/blob/main/s
   
 ![2022-11-09_19-27-11](https://user-images.githubusercontent.com/104920023/201484996-f4a31c56-3b82-4e2e-a2e3-298dd1c5b6e0.png)
   
-  <img width="1512" alt="Screen Shot 2022-11-14 at 9 28 06 AM (2)" src="https://user-images.githubusercontent.com/104920023/201742785-6b66a6b0-3885-4fec-b3bf-1b92f7c909f3.png">
+  ![image](https://user-images.githubusercontent.com/104920023/201745269-411221b2-fea9-4743-86a0-130d2fd5c543.png)
+
 
 **Sprint Review**
   
@@ -248,7 +249,7 @@ Backend URL: http://146.190.74.111/shareversity
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/60664640/199878812-489b0588-ef9d-4256-bb3c-47141edd04d1.png">
 <img width="1577" alt="image" src="https://user-images.githubusercontent.com/60664640/199878880-fcac80c6-5f75-4ddd-ba08-e426884e4ec2.png">
   
- On 11/10, we conducted a Sprint Review with our real stakeholder. Recording [here](https://drive.google.com/file/d/14iYvHuN5wtdEC2_IHmLWeV2181T_FRoV/view?usp=share_link) and screenshot [here](https://drive.google.com/file/d/1bJfCOpYbDhcw-7CIPeVqQnCRxLQwnVXk/view?usp=share_link)
+ On 11/10, we conducted a Sprint Review with our real stakeholder. Recording [here](https://drive.google.com/file/d/14iYvHuN5wtdEC2_IHmLWeV2181T_FRoV/view?usp=share_link) and screenshot [here](https://drive.google.com/file/d/1bJfCOpYbDhcw-7CIPeVqQnCRxLQwnVXk/view?usp=share_link) and [here](https://drive.google.com/open?id=16rByRsPvr240iygQ53gdWOiFYWDmNdsQ&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs)
 
 **Refined Product Backlog**
   
