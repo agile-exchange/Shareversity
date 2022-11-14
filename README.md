@@ -69,7 +69,7 @@ Google [Calendar](https://calendar.google.com/calendar/embed?src=c_d86a9c46d1636
 
 ## 2 Product
 
-**Open Source Product:** Shareversity.us
+**Open Source Product:** Shareversity.us (https://shareversity-test1-xsknh.ondigitalocean.app/)
 
 **Product Description:** Platform displaying a user interface for users (students, faculty, admins) to exchange research opportunities, jobs, and items for other needs.
 
@@ -236,7 +236,7 @@ Code [link]: (https://github.com/agile-exchange/Shareversity-Backend/blob/main/s
   
  We deployed working software that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software including a feature to validate for .edu emails.
   
-URL: https://shareversity.us/
+URL: https://shareversity-test1-xsknh.ondigitalocean.app/
   
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/60664640/199878812-489b0588-ef9d-4256-bb3c-47141edd04d1.png">
 <img width="1577" alt="image" src="https://user-images.githubusercontent.com/60664640/199878880-fcac80c6-5f75-4ddd-ba08-e426884e4ec2.png">
