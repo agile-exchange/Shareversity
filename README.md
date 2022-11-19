@@ -287,7 +287,7 @@ Recordings / Screenshots of Scrum Activities can be found [here](https://drive.g
 
 **Sprint Planning**
  
-  On 11/13 and 11/14, we conducted two Sprint planning sessions. Recording of first session [here](https://drive.google.com/open?id=16aG3mq1Iv5hTtfjqLCQqvfWQNd1eFIfK&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs) and screenshot below.
+  On 11/13 and 11/14, we conducted two Sprint planning sessions. Recording of first session [here](https://drive.google.com/open?id=16aG3mq1Iv5hTtfjqLCQqvfWQNd1eFIfK&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs) and screenshot of second session below.
   
 <img width="1512" alt="Screen Shot 2022-11-14 at 2 52 43 PM (2)" src="https://user-images.githubusercontent.com/104920023/202862992-f312ce30-7128-4992-a742-b4a8da5b98f9.png">
 
