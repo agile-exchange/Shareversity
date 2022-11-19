@@ -311,7 +311,7 @@ Sprint Burndown Chart can be seen [here](https://agile-exchange.atlassian.net/ji
   
 We conducted multiple daily scrums both live via Zoom and using the Sup app on Slack. Team calendar can be viewed [here](https://calendar.google.com/calendar/u/0?cid=Y19kODZhOWM0NmQxNjM2ZTBhNzQ4ODU5OTg4M2Y5MmMzMWRiYTQyNDE1YzgyYmY4ODNkZGJkNzQ5YWUxMzlhMTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
   
-Example of a Sup standup, which documents answers to daily scrum questions [here] (https://agile-exchangegroup.slack.com/archives/C048S11GPLL/p1668697081126809?thread_ts=1668697081.032459&cid=C048S11GPLL)
+Example of a Sup standup, which documents answers to daily scrum questions [here](https://agile-exchangegroup.slack.com/archives/C048S11GPLL/p1668697081126809?thread_ts=1668697081.032459&cid=C048S11GPLL)
   
 Recording of a Zoom stand up [here](https://drive.google.com/open?id=17STs_bcEKgYZf4X3LDw9nA8qL-zosiGR&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs)
 
