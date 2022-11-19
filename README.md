@@ -321,7 +321,7 @@ Screenshots of standups:
 <img width="1512" alt="Screen Shot 2022-11-14 at 9 28 06 AM (2)" src="https://user-images.githubusercontent.com/104920023/202862945-5956fc04-d2c2-41e1-a649-0ae103a3a771.png">
 <img width="1512" alt="Screen Shot 2022-11-17 at 9 27 37 AM (2)" src="https://user-images.githubusercontent.com/104920023/202862948-5cd088b1-f29b-444a-95d1-1da7b1cc5372.png">
 
-Regular changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1) and via screen shots below.
+Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1) and via screen shots below.
   
   ![Screen Shot 2022-11-17 at 3 57 05 PM](https://user-images.githubusercontent.com/104920023/202862967-8fd1925f-f689-42aa-a4be-4766b9db35c3.png)
 ![Screen Shot 2022-11-18 at 9 14 58 AM](https://user-images.githubusercontent.com/104920023/202862968-9ba80ea2-1e1b-45bb-b0c6-fd67161f26d8.png)
@@ -357,7 +357,7 @@ URL: https://seal-app-cnapu.ondigitalocean.app/
 
 **Sprint Retrospective**
   
-  On 11/19, we conducted a Sprint Retrospective, recording available [here] and screenshots below.
+  On 11/19, we conducted a Sprint Retrospective, recording available [here](https://drive.google.com/open?id=19S9yxm1a2CmhDhsNi-4AzulcpisyUYvY&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs) and screenshots below.
   
   <img width="1512" alt="Screen Shot 2022-11-19 at 9 26 26 AM (2)" src="https://user-images.githubusercontent.com/104920023/202862851-d0c045ec-705b-41d7-bbdd-0d13dcbdf4d2.png">
   
