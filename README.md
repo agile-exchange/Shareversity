@@ -280,6 +280,90 @@ Backend URL: http://146.190.74.111/shareversity
 
 Our concrete plan to achieve this is to reorder our backlog, write narrower user stories focused on maximal value, deprioritize building technical functionality that doesn't directly map to the most valuable features for the stakeholder, and identify the simplest technical solution to create allow us to deliver the requested value to the stakeholder.
 
+  
+  ### Project Part 3: Second Sprint
+  
+Recordings / Screenshots of Scrum Activities can be found [here](https://drive.google.com/open?id=17sLW6jsOIHir2zbEYn0mGiouoUTGdFMB&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs) and linked below.
+
+**Sprint Planning**
+ 
+  On 11/13 and 11/14, we conducted two Sprint planning sessions. Recording of first session [here](https://drive.google.com/open?id=16aG3mq1Iv5hTtfjqLCQqvfWQNd1eFIfK&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs) and screenshot below.
+  
+<img width="1512" alt="Screen Shot 2022-11-14 at 2 52 43 PM (2)" src="https://user-images.githubusercontent.com/104920023/202862992-f312ce30-7128-4992-a742-b4a8da5b98f9.png">
+
+ Sprint forecast: 53 User Story Points
+  
+  Rationale for Sprint forecast: Based on what the three primary developers were able to do in the last sprint (estimated at 61 points), we estimate we can complete 53 story points since we have a narrower amount of time this sprint and this matches the top related items in our product backlog.
+  
+Only Developers participated in moving stories from the product backlog into the sprint backlog.
+  
+User stories were all sized correctly (less than half of total), were broken up into developer tasks, and tracked on [Kanban Board](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1). URL: https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1 Screenshots below.
+  
+  ![Screen Shot 2022-11-13 at 10 29 36 PM](https://user-images.githubusercontent.com/104920023/202863033-fca292dd-6cc6-460c-a85b-b367b1f828f5.png)
+![Screen Shot 2022-11-14 at 2 52 43 PM](https://user-images.githubusercontent.com/104920023/202863034-28950a1e-1ca4-4a52-9c05-96cffccf1be3.png)
+  
+Sprint Burndown Chart can be seen [here](https://agile-exchange.atlassian.net/jira/dashboards/10000) and [here](https://agile-exchange.atlassian.net/wiki/spaces/AGILEEXCHA/overview) and was updated automatically as tasks were completed throughout the Sprint.
 
 
+**Daily Scrums**
+  
+We conducted multiple daily scrums both live via Zoom and using the Sup app on Slack. Team calendar can be viewed [here](https://calendar.google.com/calendar/u/0?cid=Y19kODZhOWM0NmQxNjM2ZTBhNzQ4ODU5OTg4M2Y5MmMzMWRiYTQyNDE1YzgyYmY4ODNkZGJkNzQ5YWUxMzlhMTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+  
+Example of a Sup standup, which documents answers to daily scrum questions [here] (https://agile-exchangegroup.slack.com/archives/C048S11GPLL/p1668697081126809?thread_ts=1668697081.032459&cid=C048S11GPLL)
+  
+Recording of a Zoom stand up [here](https://drive.google.com/open?id=17STs_bcEKgYZf4X3LDw9nA8qL-zosiGR&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs)
+
+Screenshots of standups:
+  
+  <img width="1512" alt="Screen Shot 2022-11-18 at 9 14 58 AM (2)" src="https://user-images.githubusercontent.com/104920023/202862949-76489338-1402-40b6-ab3c-f75fdf3f35ea.png">
+<img width="1512" alt="Screen Shot 2022-11-14 at 9 28 06 AM (2)" src="https://user-images.githubusercontent.com/104920023/202862945-5956fc04-d2c2-41e1-a649-0ae103a3a771.png">
+<img width="1512" alt="Screen Shot 2022-11-17 at 9 27 37 AM (2)" src="https://user-images.githubusercontent.com/104920023/202862948-5cd088b1-f29b-444a-95d1-1da7b1cc5372.png">
+
+Regular changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1) and via screen shots below.
+  
+  ![Screen Shot 2022-11-17 at 3 57 05 PM](https://user-images.githubusercontent.com/104920023/202862967-8fd1925f-f689-42aa-a4be-4766b9db35c3.png)
+![Screen Shot 2022-11-18 at 9 14 58 AM](https://user-images.githubusercontent.com/104920023/202862968-9ba80ea2-1e1b-45bb-b0c6-fd67161f26d8.png)
+![Screen Shot 2022-11-19 at 9 25 23 AM](https://user-images.githubusercontent.com/104920023/202862969-acecff86-13c7-4b57-9809-b2de23daba5e.png)
+  
+**Pair/Mob Programming**
+  
+  Screenshots of various pair programming sessions conducted are below during Sprints 1 and 2 below:
+  
+![image (2)](https://user-images.githubusercontent.com/104920023/202862930-cc774477-23b6-43b5-b2b3-ce4000afe7f0.png)
+![image (3)](https://user-images.githubusercontent.com/104920023/202862931-fd957b4d-9e98-4e8d-a8c7-d5ceab7c8e0b.png)
+![Screen Shot 2022-11-15 at 5 54 33 PM](https://user-images.githubusercontent.com/104920023/202862932-984f3fd9-86e7-48b7-939f-b88ade341e50.png)
+
+**Test-Drive Development**
+
+**Continuous Integration and Continuous Delivery**
+
+**Sprint Review**
+  
+ We deployed new working software (different from the last sprint based on feedback received) that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software.
+  
+URL: https://seal-app-cnapu.ondigitalocean.app/
+    
+ On 11/18, we conducted a Sprint Review with our real stakeholder. Recording [here](https://drive.google.com/open?id=18SN-E0miNft1vRsIDUVHjzgc9qzjh6BH&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs) and screenshot below.
+  
+  <img width="1512" alt="Screen Shot 2022-11-18 at 3 40 01 PM (2)" src="https://user-images.githubusercontent.com/104920023/202862899-9dfc69c4-85bd-4ee2-8841-7e5f67438c4c.png">
+
+**Refined Product Backlog**
+    
+  Following the Sprint Review with the Stakeholder, we discussed feedback to identify features to focus on in next/final sprint. 
+  
+ Evidence of a refined backlog can be seen in changes to user stories / ordering on our Jira backlog [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1/backlog).
+
+**Sprint Retrospective**
+  
+  On 11/19, we conducted a Sprint Retrospective, recording available [here] and screenshots below.
+  
+  <img width="1512" alt="Screen Shot 2022-11-19 at 9 26 26 AM (2)" src="https://user-images.githubusercontent.com/104920023/202862851-d0c045ec-705b-41d7-bbdd-0d13dcbdf4d2.png">
+  
+  <img width="1365" alt="image (2)" src="https://user-images.githubusercontent.com/104920023/202862869-f7dc745b-d755-45bf-a8ad-2586047980bd.png">
+
+  Our identified action to improve our effectiveness was created as a user story with action plan listed as sub tasks and put at the top of our product backlog (linked [here](https://agile-exchange.atlassian.net/browse/AE-124)) and screen shot below.
+
+  ![Screen Shot 2022-11-19 at 11 44 55 AM](https://user-images.githubusercontent.com/104920023/202862876-2827d178-6ecf-4549-9edd-f9d91a541e93.png)
+
+  
 
