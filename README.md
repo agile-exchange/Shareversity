@@ -334,6 +334,7 @@ Changes to the board throughout the sprint, which updated the burndown chart aut
 ![image (2)](https://user-images.githubusercontent.com/104920023/202862930-cc774477-23b6-43b5-b2b3-ce4000afe7f0.png)
 ![image (3)](https://user-images.githubusercontent.com/104920023/202862931-fd957b4d-9e98-4e8d-a8c7-d5ceab7c8e0b.png)
 ![Screen Shot 2022-11-15 at 5 54 33 PM](https://user-images.githubusercontent.com/104920023/202862932-984f3fd9-86e7-48b7-939f-b88ade341e50.png)
+![image (4)](https://user-images.githubusercontent.com/104920023/202883281-34618d7c-07ab-402d-ad53-649cc617bbe6.png)
 
 **Test-Drive Development**
 
