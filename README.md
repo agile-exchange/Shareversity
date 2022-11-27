@@ -340,6 +340,27 @@ Changes to the board throughout the sprint, which updated the burndown chart aut
 
 **Continuous Integration and Continuous Delivery**
 
+**CD**
+
+Our deployment process relies in a Continuous Delivery system using DigitalOcean.
+
+- Only when the build is green, is considered completed and software is then deployed to our production environment.
+<img width="1099" alt="image" src="https://user-images.githubusercontent.com/60664640/204116220-521164b4-2f42-4465-b80e-3ed510c67dc5.png">
+
+- When the build is red, the build process exits, leaving the production environment unaltered and only changes when the build green again.
+<img width="1100" alt="image" src="https://user-images.githubusercontent.com/60664640/204116256-2c11af91-bb86-4d84-b8df-f45a820a312b.png">
+
+- Additionally, we have other systems in place to increase the observability of our deployments:
+
+1. We set up alerts that notify us via slack the moment a build fails.
+<img width="2081" alt="image" src="https://user-images.githubusercontent.com/60664640/204116538-f0cd5e54-9a4e-41c3-b621-d65b7a336232.png">
+
+
+2. We also forward all logs to datadog in the event further monitoring/investigation is needed.
+<img width="1314" alt="image" src="https://user-images.githubusercontent.com/60664640/204116571-16163a15-9d58-4090-b034-afaada3cab70.png">
+
+
+
 **Sprint Review**
   
  We deployed new working software (different from the last sprint based on feedback received) that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software.
