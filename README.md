@@ -351,6 +351,10 @@ Code [link]: (https://github.com/agile-exchange/shareversity-nextjs)
 
 **Continuous Integration and Continuous Delivery**
 
+**CI**
+
+[![Shareversity CI](https://github.com/agile-exchange/shareversity-nextjs/actions/workflows/node.js.yml/badge.svg)](https://github.com/agile-exchange/shareversity-nextjs/actions/workflows/node.js.yml)
+
 **CD**
 
 Our deployment process relies in a Continuous Delivery system using DigitalOcean.
