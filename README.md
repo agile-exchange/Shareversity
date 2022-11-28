@@ -363,8 +363,9 @@ Our deployment process relies in a Continuous Delivery system using DigitalOcean
 
 - Additionally, we have other systems in place to increase the observability of our deployments:
 
-1. We set up alerts that notify us via slack the moment a build fails.
+1. We set up alerts that notify us via slack the moment a build fails or it's successfully deployed.
 <img width="2081" alt="image" src="https://user-images.githubusercontent.com/60664640/204116538-f0cd5e54-9a4e-41c3-b621-d65b7a336232.png">
+<img width="696" alt="image" src="https://user-images.githubusercontent.com/60664640/204206856-63ebe3fc-5772-4940-93dc-6c0ae63abd45.png">
 
 
 2. We also forward all logs to datadog in the event further monitoring/investigation is needed.
