@@ -351,11 +351,26 @@ Code [link]: (https://github.com/agile-exchange/shareversity-nextjs)
 
 **Continuous Integration and Continuous Delivery**
 
-**CI**
+**Continous Integration** 
 
-[![Shareversity CI](https://github.com/agile-exchange/shareversity-nextjs/actions/workflows/node.js.yml/badge.svg)](https://github.com/agile-exchange/shareversity-nextjs/actions/workflows/node.js.yml)
+[![Shareversity CI](https://github.com/agile-exchange/shareversity-nextjs/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/agile-exchange/shareversity-nextjs/actions/workflows/node.js.yml)
 
-**CD**
+- Our CI system was setup using GitHub actions and DigitalOcean. Everytime there is a new push to main, the CI workflow is triggered, which then builds and runs all of our unit tests.
+
+- We are alerted via email the instant a test/workflow fails.
+<img width="969" alt="image" src="https://user-images.githubusercontent.com/60664640/204225924-d2594c31-9767-4090-a5b4-870a62862dec.png">
+
+- If any of the tests fails, the CI workflow stops and no changes are pushed to DigitalOcean.
+- If all tests are successful, the workflow proceeds to push all changes to DigitalOcean for deployment
+<img width="1582" alt="image" src="https://user-images.githubusercontent.com/60664640/204228761-f434e68b-5ab3-40ff-ba1b-f69edb09ec25.png">
+
+- This is the YAML file that executes the build, test and deployment of our code.
+
+<img width="929" alt="image" src="https://user-images.githubusercontent.com/60664640/204229781-5e0f4735-608a-42a2-8ab7-683239bb1cfd.png">
+
+Note: Autodeploy was turned off in DigitalOcean. Only the CI workflow can deploy repo changes to DigitalOcean now. 
+
+**Continous Delivery**
 
 Our deployment process relies in a Continuous Delivery system using DigitalOcean.
 
@@ -367,10 +382,8 @@ Our deployment process relies in a Continuous Delivery system using DigitalOcean
 
 - Additionally, we have other systems in place to increase the observability of our deployments:
 
-1. We set up alerts that notify us via slack the moment a build fails or it's successfully deployed.
+1. We set up alerts that notify us via slack the moment a build fails.
 <img width="2081" alt="image" src="https://user-images.githubusercontent.com/60664640/204116538-f0cd5e54-9a4e-41c3-b621-d65b7a336232.png">
-<img width="696" alt="image" src="https://user-images.githubusercontent.com/60664640/204206856-63ebe3fc-5772-4940-93dc-6c0ae63abd45.png">
-
 
 2. We also forward all logs to datadog in the event further monitoring/investigation is needed.
 <img width="1314" alt="image" src="https://user-images.githubusercontent.com/60664640/204116571-16163a15-9d58-4090-b034-afaada3cab70.png">
