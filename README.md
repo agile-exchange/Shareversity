@@ -388,7 +388,7 @@ Our deployment process relies in a Continuous Delivery system using DigitalOcean
 2. We also forward all logs to datadog in the event further monitoring/investigation is needed.
 <img width="1314" alt="image" src="https://user-images.githubusercontent.com/60664640/204116571-16163a15-9d58-4090-b034-afaada3cab70.png">
 
-3. Lastly, once our website is live, it continues to be monitored. Every 60 seconds an HTTP test is sent from 19 different servers throughout the world, if any of these fails, the team gets notified.
+3. Lastly, once our website is live, it continues to be monitored. Every 1 minute an HTTP test is sent from 19 different servers throughout the world, if any of these fails, the team gets notified.
 <img width="1400" alt="image" src="https://user-images.githubusercontent.com/60664640/204238731-818b75f3-38ec-4978-aefb-b2d64c94fcba.png">
 <img width="1394" alt="image" src="https://user-images.githubusercontent.com/60664640/204239523-ff91ff5d-0743-44b5-b955-bcb5cc6362e1.png">
 
