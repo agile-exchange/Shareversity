@@ -343,7 +343,9 @@ Changes to the board throughout the sprint, which updated the burndown chart aut
 All other Screenshots providing evidence of Test-Driven Development can be found in [this folder](https://drive.google.com/drive/folders/1IQcLOg8Dkd-1QYIXjSbBpoN8EkcNe1HI).
 
 We wrote 22 test cases below is the link,
-**TDD Test Cases** [link]: (https://github.com/agile-exchange/shareversity-nextjs/blob/main/test/form.test.js)
+<br /> **TDD Test Cases** 
+  <br />[link]: (https://github.com/agile-exchange/shareversity-nextjs/blob/main/test/form.test.js)
+  <br />[link]: (https://github.com/agile-exchange/shareversity-nextjs/blob/main/test/signup.test.js)
 
 Code [link]: (https://github.com/agile-exchange/shareversity-nextjs)
 
