@@ -434,7 +434,7 @@ Recordings / Screenshots of Scrum Activities can be found [here](https://drive.g
 
 **Sprint Planning**
  
-We began estimation on 12/6 and completed sprint planning on 12/8. Recordings [here]() and screenshots below.
+We began estimation on 11/29 and completed sprint planning on 12/1. Recording of 12/1 session [here](https://drive.google.com/file/d/1BwUbvwZo4Srx83i91uWOMMxcjSbPjzph/view?usp=share_link).
 
  Sprint forecast: 106 User Story Points. 
 
@@ -456,14 +456,14 @@ We conducted multiple daily scrums both live via Zoom and using the Sup app on S
   
 Example of a Sup standup, which documents answers to daily scrum questions [here](https://agile-exchangegroup.slack.com/archives/C048S11GPLL/p1670422230816339?thread_ts=1670422230.709029&cid=C048S11GPLL)
   
-Recording of a Zoom stand up [here]
+Recording of a Zoom stand up [here](https://drive.google.com/file/d/1ByfSzRI6PtJ7GoRHvgtj7dT7BXSt_pUx/view?usp=share_link)
 
 Screenshot of standup:
   
 <img width="1512" alt="Screen Shot 2022-12-05 at 3 30 27 PM (2)" src="https://user-images.githubusercontent.com/104920023/207126280-ed368100-2c2f-4232-8c78-f2ea285fc3b8.png">
 
   
-Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1) and via screen shot of the burnchart below.
+Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1) and via screenshot of the burndown chart below and recording of the daily stand up linked above.
   
   ![Screen Shot 2022-12-12 at 1 54 38 PM](https://user-images.githubusercontent.com/104920023/207130710-35c3f654-3e7f-4beb-a1dd-10c29ed8dfd2.png)
 
@@ -502,15 +502,15 @@ Details and evidence remain the same as last sprint.
   
 URL: https://seal-app-cnapu.ondigitalocean.app/
     
- Sprint review will take place in class on 12/12. Rehearsal took place on 12/12 with recording available [here].
+ Sprint review will take place in class on 12/12. Rehearsal took place on 12/12 with recording available [here](https://drive.google.com/file/d/1C1IFybHbRTtpDUFNGeIRVNOlJc75utqB/view?usp=share_link).
 
 **Refined Product Backlog**
     
-Backlog refinements to be discussed during in-class review.
+Backlog refinements to be discussed during in-class review. Our backlog of user stories is visible [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1/backlog)
 
 **Sprint Retrospective**
   
-  On 12/12, we conducted a Sprint Retrospective, recording available [here] and screenshots below.
+  On 12/12, we conducted a Sprint Retrospective, recording available [here](https://drive.google.com/file/d/1C4IkjieLaridwHYYMehE4CNLku2akawl/view?usp=share_link) and screenshots below.
   
   <img width="1512" alt="Screen Shot 2022-12-12 at 11 45 43 AM" src="https://user-images.githubusercontent.com/104920023/207125664-1220a586-ad4b-490d-97ee-fa075e5d6afd.png">
 
