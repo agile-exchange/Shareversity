@@ -352,6 +352,9 @@ Code [link]: (https://github.com/agile-exchange/shareversity-nextjs)
   
 - Steps to run tests : npm run test
 
+BDD
+<img width="2082" alt="image" src="https://user-images.githubusercontent.com/60664640/206969634-b3eb730f-24c5-4e78-885c-201829e35393.png">
+
 **Continuous Integration and Continuous Delivery**
 
 **Continous Integration** 
