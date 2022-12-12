@@ -463,7 +463,10 @@ Screenshot of standup:
 <img width="1512" alt="Screen Shot 2022-12-05 at 3 30 27 PM (2)" src="https://user-images.githubusercontent.com/104920023/207126280-ed368100-2c2f-4232-8c78-f2ea285fc3b8.png">
 
   
-Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1) and via screen shots below.
+Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1) and via screen shot of the burnchart below.
+  
+  ![Screen Shot 2022-12-12 at 1 54 38 PM](https://user-images.githubusercontent.com/104920023/207130710-35c3f654-3e7f-4beb-a1dd-10c29ed8dfd2.png)
+
 
 **Pair/Mob Programming**
   
