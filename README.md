@@ -478,7 +478,7 @@ Details and evidence remain the same as last sprint.
   
 URL: https://seal-app-cnapu.ondigitalocean.app/
     
- Sprint review will take place in class at 12/12
+ Sprint review will take place in class on 12/12
 
 **Refined Product Backlog**
     
@@ -488,7 +488,12 @@ Backlog refinements to be discussed during in-class review.
   
   On 12/12, we conducted a Sprint Retrospective, recording available [here] and screenshots below.
   
+  <img width="1512" alt="Screen Shot 2022-12-12 at 11 45 43 AM" src="https://user-images.githubusercontent.com/104920023/207125664-1220a586-ad4b-490d-97ee-fa075e5d6afd.png">
+
+  ![Screen Shot 2022-12-12 at 11 45 48 AM](https://user-images.githubusercontent.com/104920023/207125768-a96803cc-2cd4-4669-8469-b43ee940bee7.png)
+
   Our identified action to improve our effectiveness was created as a user story with action plan listed as sub tasks and put at the top of our product backlog (linked [here]) and screen shot below.
   
- 
+ ![Screen Shot 2022-12-12 at 11 59 29 AM](https://user-images.githubusercontent.com/104920023/207125894-201fb764-729a-4884-a1cb-413000c84b5c.png)
+
 
