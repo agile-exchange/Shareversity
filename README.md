@@ -434,7 +434,7 @@ Recordings / Screenshots of Scrum Activities can be found [here](https://drive.g
 
 **Sprint Planning**
  
-We began estimation on 12/6 and completed sprint planning on 12/8. Recordings [here](https://drive.google.com/open?id=16aG3mq1Iv5hTtfjqLCQqvfWQNd1eFIfK&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs) and screenshots below.
+We began estimation on 12/6 and completed sprint planning on 12/8. Recordings [here]() and screenshots below.
 
  Sprint forecast: 106 User Story Points. 
 
@@ -456,7 +456,9 @@ Example of a Sup standup, which documents answers to daily scrum questions [here
   
 Recording of a Zoom stand up [here]
 
-Screenshots of standups:
+Screenshot of standup:
+  
+<img width="1512" alt="Screen Shot 2022-12-05 at 3 30 27 PM (2)" src="https://user-images.githubusercontent.com/104920023/207126280-ed368100-2c2f-4232-8c78-f2ea285fc3b8.png">
 
   
 Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1) and via screen shots below.
@@ -465,6 +467,9 @@ Changes to the board throughout the sprint, which updated the burndown chart aut
   
   Screenshots of various pair/mob programming sessions here:
 
+![Screen Shot 2022-12-05 at 5 21 50 PM](https://user-images.githubusercontent.com/104920023/207126126-47fe12a7-ca18-472c-8d67-3961c56194ba.png)
+
+  ![Screen Shot 2022-12-05 at 3 59 58 PM](https://user-images.githubusercontent.com/104920023/207126138-38f2de66-2459-4281-a7e1-9cf0699be47c.png)
 
 **Test-Drive Development**
 
@@ -478,7 +483,7 @@ Details and evidence remain the same as last sprint.
   
 URL: https://seal-app-cnapu.ondigitalocean.app/
     
- Sprint review will take place in class on 12/12
+ Sprint review will take place in class on 12/12. Rehearsal took place on 12/12 with recording available [here].
 
 **Refined Product Backlog**
     
