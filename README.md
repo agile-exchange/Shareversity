@@ -442,8 +442,10 @@ Rationale: Due to the Thanksgiving holiday, we forecast a smaller number of user
   
 Only Developers participated in moving stories from the product backlog into the sprint backlog.
   
-User stories were all sized correctly (less than half of total), were broken up into developer tasks, and tracked on [Kanban Board](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1). URL: https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1
+User stories were all sized correctly (less than half of total), were broken up into developer tasks, and tracked on [Kanban Board](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1). Screenshot below:
   
+ ![Screen Shot 2022-12-05 at 3 30 27 PM](https://user-images.githubusercontent.com/104920023/207129273-1599980b-7601-4988-88e0-6524778d6c27.png)
+
   
 Sprint Burndown Chart can be seen [here](https://agile-exchange.atlassian.net/jira/dashboards/10000) and [here](https://agile-exchange.atlassian.net/wiki/spaces/AGILEEXCHA/overview) and was updated automatically as tasks were completed throughout the Sprint.
 
