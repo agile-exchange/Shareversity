@@ -516,7 +516,7 @@ Backlog refinements to be discussed during in-class review. Our backlog of user 
 
   ![Screen Shot 2022-12-12 at 11 45 48 AM](https://user-images.githubusercontent.com/104920023/207125768-a96803cc-2cd4-4669-8469-b43ee940bee7.png)
 
-  Our identified action to improve our effectiveness was created as a user story with action plan listed as sub tasks and put at the top of our product backlog (linked [here]) and screen shot below.
+  Our identified action to improve our effectiveness was created as a user story with action plan listed as sub tasks and put at the top of our product backlog (linked [here](https://agile-exchange.atlassian.net/browse/AE-158)) and screen shot below.
   
  ![Screen Shot 2022-12-12 at 11 59 29 AM](https://user-images.githubusercontent.com/104920023/207125894-201fb764-729a-4884-a1cb-413000c84b5c.png)
 
