@@ -428,5 +428,67 @@ URL: https://seal-app-cnapu.ondigitalocean.app/
 
   ![Screen Shot 2022-11-19 at 11 44 55 AM](https://user-images.githubusercontent.com/104920023/202862876-2827d178-6ecf-4549-9edd-f9d91a541e93.png)
 
+ ### Project Part 4: Third Sprint
   
+Recordings / Screenshots of Scrum Activities can be found [here](https://drive.google.com/open?id=17sLW6jsOIHir2zbEYn0mGiouoUTGdFMB&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs)
+
+**Sprint Planning**
+ 
+We began estimation on 12/6 and completed sprint planning on 12/8. Recordings [here](https://drive.google.com/open?id=16aG3mq1Iv5hTtfjqLCQqvfWQNd1eFIfK&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs) and screenshots below.
+
+ Sprint forecast: 106 User Story Points. 
+
+Rationale: Due to the Thanksgiving holiday, we forecast a smaller number of user story points last sprint (53) and delivered all of them successfully during a shorter sprint duration. With a longer sprint planned and a more ambitious goal, we forecast being able to achieve double the number of user story points as last time (106).
+  
+Only Developers participated in moving stories from the product backlog into the sprint backlog.
+  
+User stories were all sized correctly (less than half of total), were broken up into developer tasks, and tracked on [Kanban Board](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1). URL: https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1
+  
+  
+Sprint Burndown Chart can be seen [here](https://agile-exchange.atlassian.net/jira/dashboards/10000) and [here](https://agile-exchange.atlassian.net/wiki/spaces/AGILEEXCHA/overview) and was updated automatically as tasks were completed throughout the Sprint.
+
+
+**Daily Scrums**
+  
+We conducted multiple daily scrums both live via Zoom and using the Sup app on Slack. Team calendar can be viewed [here](https://calendar.google.com/calendar/u/0?cid=Y19kODZhOWM0NmQxNjM2ZTBhNzQ4ODU5OTg4M2Y5MmMzMWRiYTQyNDE1YzgyYmY4ODNkZGJkNzQ5YWUxMzlhMTI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+  
+Example of a Sup standup, which documents answers to daily scrum questions [here](https://agile-exchangegroup.slack.com/archives/C048S11GPLL/p1670422230816339?thread_ts=1670422230.709029&cid=C048S11GPLL)
+  
+Recording of a Zoom stand up [here]
+
+Screenshots of standups:
+
+  
+Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1) and via screen shots below.
+
+**Pair/Mob Programming**
+  
+  Screenshots of various pair/mob programming sessions here:
+
+
+**Test-Drive Development**
+
+**Continuous Integration and Continuous Delivery**
+
+Details and evidence remain the same as last sprint.
+
+**Sprint Review**
+  
+ We deployed new working software (different from the last sprint based on feedback received) that is in a publicly accessible system (web server in DigitalOcean). Below is the evidence that our product increment is working software.
+  
+URL: https://seal-app-cnapu.ondigitalocean.app/
+    
+ Sprint review will take place in class at 12/12
+
+**Refined Product Backlog**
+    
+Backlog refinements to be discussed during in-class review.
+
+**Sprint Retrospective**
+  
+  On 12/12, we conducted a Sprint Retrospective, recording available [here] and screenshots below.
+  
+  Our identified action to improve our effectiveness was created as a user story with action plan listed as sub tasks and put at the top of our product backlog (linked [here]) and screen shot below.
+  
+ 
 
