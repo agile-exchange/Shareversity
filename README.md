@@ -446,9 +446,9 @@ User stories were all sized correctly (less than half of total), were broken up 
   
  ![Screen Shot 2022-12-05 at 3 30 27 PM](https://user-images.githubusercontent.com/104920023/207129273-1599980b-7601-4988-88e0-6524778d6c27.png)
 
-  
-Sprint Burndown Chart can be seen [here](https://agile-exchange.atlassian.net/jira/dashboards/10000) and [here](https://agile-exchange.atlassian.net/wiki/spaces/AGILEEXCHA/overview) and was updated automatically as tasks were completed throughout the Sprint.
-
+Sprint Burndown Chart can be seen in the below screenshot and was updated automatically as tasks were completed throughout the Sprint.
+   
+![Screen Shot 2022-12-12 at 1 54 38 PM](https://user-images.githubusercontent.com/104920023/207134082-06f68f18-9fb9-45ee-9fd7-a5b37fa2c65d.png)
 
 **Daily Scrums**
   
