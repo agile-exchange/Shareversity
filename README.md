@@ -65,7 +65,7 @@ Documentation -  [Confluence](https://agile-exchange.atlassian.net/wiki/spaces/A
 
 Google [Calendar](https://calendar.google.com/calendar/embed?src=c_d86a9c46d1636e0a7488599883f92c31dba42415c82bf883ddbd749ae139a124%40group.calendar.google.com&ctz=America%2FNew_York) / Docs [Drive](https://drive.google.com/drive/u/0/folders/1jFoImuQzUL1GwPM0XBCl-rEKa0A1INnh?ths=true)
 
-**GitHub Repo URL:** https://github.com/agile-exchange/Shareversity
+**GitHub Repo URL:** https://github.com/agile-exchange/shareversity-nextjs
 
 ## 2 Product
 
