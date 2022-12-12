@@ -456,14 +456,14 @@ We conducted multiple daily scrums both live via Zoom and using the Sup app on S
   
 Example of a Sup standup, which documents answers to daily scrum questions [here](https://agile-exchangegroup.slack.com/archives/C048S11GPLL/p1670422230816339?thread_ts=1670422230.709029&cid=C048S11GPLL)
   
-Recording of a Zoom stand up [here](https://drive.google.com/file/d/1ByfSzRI6PtJ7GoRHvgtj7dT7BXSt_pUx/view?usp=share_link)
+Recording of a Zoom stand up with board updates [here](https://drive.google.com/file/d/1ByfSzRI6PtJ7GoRHvgtj7dT7BXSt_pUx/view?usp=share_link).
 
 Screenshot of standup:
   
 <img width="1512" alt="Screen Shot 2022-12-05 at 3 30 27 PM (2)" src="https://user-images.githubusercontent.com/104920023/207126280-ed368100-2c2f-4232-8c78-f2ea285fc3b8.png">
 
   
-Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen [here](https://agile-exchange.atlassian.net/jira/software/projects/AE/boards/1) and via screenshot of the burndown chart below and recording of the daily stand up linked above.
+Changes to the board throughout the sprint, which updated the burndown chart automatically, can be seen via screenshot of the burndown chart below and recording of the daily stand up linked above and again [here](https://drive.google.com/file/d/1ByfSzRI6PtJ7GoRHvgtj7dT7BXSt_pUx/view?usp=share_link).
   
   ![Screen Shot 2022-12-12 at 1 54 38 PM](https://user-images.githubusercontent.com/104920023/207130710-35c3f654-3e7f-4beb-a1dd-10c29ed8dfd2.png)
 
