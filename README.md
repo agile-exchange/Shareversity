@@ -430,7 +430,7 @@ URL: https://seal-app-cnapu.ondigitalocean.app/
 
  ### Project Part 4: Third Sprint
   
-Recordings / Screenshots of Scrum Activities can be found [here](https://drive.google.com/open?id=17sLW6jsOIHir2zbEYn0mGiouoUTGdFMB&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs)
+Recordings / Screenshots of Scrum Activities can be found [here]([https://drive.google.com/open?id=17sLW6jsOIHir2zbEYn0mGiouoUTGdFMB&authuser=ajuraschek%40g.harvard.edu&usp=drive_fs])
 
 **Sprint Planning**
  
