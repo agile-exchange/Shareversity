@@ -502,7 +502,7 @@ Details and evidence remain the same as last sprint.
   
 URL: https://seal-app-cnapu.ondigitalocean.app/
     
- Sprint review will take place in class on 12/12. Rehearsal took place on 12/12 with recording available [here](https://drive.google.com/file/d/1C1IFybHbRTtpDUFNGeIRVNOlJc75utqB/view?usp=share_link).
+ Sprint review will take place in class on 12/12. Rehearsal took place on 12/12 with recording available [here](https://drive.google.com/file/d/1C1IFybHbRTtpDUFNGeIRVNOlJc75utqB/view?usp=share_link). Slides available [here](https://docs.google.com/presentation/d/1Ddn6LPJ7Y5OAWSflr7CpRzQtl-SoJVtoSiqd05x0zDQ/edit?usp=sharing).
 
 **Refined Product Backlog**
     
